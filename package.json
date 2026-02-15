@@ -1,0 +1,28 @@
+{
+  "name": "@metadata-byte/game-hub",
+  "version": "1.0.0",
+  "description": "Manage metadata of game",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "lint": "eslint pb_migrations"
+  },
+  "keywords": [],
+  "author": "Joshua Avalon",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/metadata-byte/metadata-byte.git"
+  },
+  "bugs": {
+    "url": "https://github.com/metadata-byte/metadata-byte/issues"
+  },
+  "homepage": "https://github.com/metadata-byte/metadata-byte#readme",
+  "devDependencies": {
+    "@joshuaavalon/eslint-config-javascript": "^10.0.0",
+    "@types/node": "^24.9.1",
+    "eslint": "^9.39.1",
+    "globals": "^16.5.0",
+    "rimraf": "^6.1.2"
+  }
+}
