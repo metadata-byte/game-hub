@@ -6,13 +6,13 @@ migrate(app => {
   collection.fields.addAt(5, new Field({
     convertURLs: true,
     hidden: false,
-    id: "editor3485334036",
+    id: "text3485334036",
     maxSize: 0,
     name: "note",
     presentable: false,
     required: false,
     system: false,
-    type: "editor"
+    type: "text"
   }));
 
   // add field
@@ -85,7 +85,7 @@ migrate(app => {
   const collection = app.findCollectionByNameOrId("pbc_879072730");
 
   // remove field
-  collection.fields.removeById("editor3485334036");
+  collection.fields.removeById("text3485334036");
 
   // remove field
   collection.fields.removeById("number3632866850");

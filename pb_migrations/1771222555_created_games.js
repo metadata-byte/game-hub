@@ -49,13 +49,13 @@ migrate(app => {
       {
         convertURLs: true,
         hidden: false,
-        id: "editor1843675174",
+        id: "text1843675174",
         maxSize: 0,
         name: "description",
         presentable: false,
         required: false,
         system: false,
-        type: "editor"
+        type: "text"
       },
       {
         hidden: false,
