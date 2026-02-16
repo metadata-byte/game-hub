@@ -4,12 +4,15 @@ migrate(app => {
 
   // add field
   collection.fields.addAt(5, new Field({
-    convertURLs: true,
+    autogeneratePattern: "",
     hidden: false,
     id: "text3485334036",
-    maxSize: 0,
+    max: 0,
+    min: 0,
     name: "note",
+    pattern: "",
     presentable: false,
+    primaryKey: false,
     required: false,
     system: false,
     type: "text"

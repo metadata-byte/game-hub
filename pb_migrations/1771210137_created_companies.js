@@ -47,12 +47,15 @@ migrate(app => {
         type: "text"
       },
       {
-        convertURLs: true,
+        autogeneratePattern: "",
         hidden: false,
         id: "text1843675174",
-        maxSize: 0,
+        max: 0,
+        min: 0,
         name: "description",
+        pattern: "",
         presentable: false,
+        primaryKey: false,
         required: false,
         system: false,
         type: "text"
