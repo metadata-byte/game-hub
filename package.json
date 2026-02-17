@@ -12,12 +12,12 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/metadata-byte/metadata-byte.git"
+    "url": "https://github.com/metadata-byte/game-hub.git"
   },
   "bugs": {
-    "url": "https://github.com/metadata-byte/metadata-byte/issues"
+    "url": "https://github.com/metadata-byte/game-hub/issues"
   },
-  "homepage": "https://github.com/metadata-byte/metadata-byte#readme",
+  "homepage": "https://github.com/metadata-byte/game-hub#readme",
   "devDependencies": {
     "@joshuaavalon/eslint-config-javascript": "^10.0.0",
     "@types/node": "^24.9.1",
