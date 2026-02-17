@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/metadata-byte/game-hub/compare/v1.0.0...v1.1.0) (2026-02-17)
+
+
+### Features
+
+* Add tags ([1db7f38](https://github.com/metadata-byte/game-hub/commit/1db7f38769f75befef4827d97accdf21f21ea0d6))
+
 ## 1.0.0 (2026-02-17)
 
 
