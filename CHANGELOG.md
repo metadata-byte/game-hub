@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/metadata-byte/game-hub/compare/v1.2.0...v1.3.0) (2026-02-18)
+
+
+### Features
+
+* Add attachments ([1e789f6](https://github.com/metadata-byte/game-hub/commit/1e789f6bd1d9068b8f64c1f84e5a9f9a362b6232))
+
 ## [1.2.0](https://github.com/metadata-byte/game-hub/compare/v1.1.0...v1.2.0) (2026-02-18)
 
 
