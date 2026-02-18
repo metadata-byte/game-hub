@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.2.0](https://github.com/metadata-byte/game-hub/compare/v1.1.0...v1.2.0) (2026-02-18)
+
+
+### Features
+
+* Add executable and parameters for games ([dfd3f2e](https://github.com/metadata-byte/game-hub/commit/dfd3f2efdc7c1b58efc5211d5a3daba2957c240b))
+
+
+### Bug Fixes
+
+* Allow empty url in linkType ([7c76688](https://github.com/metadata-byte/game-hub/commit/7c7668825dd2549ba95d7f71c74091752e29d5f5))
+
 ## [1.1.0](https://github.com/metadata-byte/game-hub/compare/v1.0.0...v1.1.0) (2026-02-17)
 
 
