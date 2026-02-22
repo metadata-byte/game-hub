@@ -8,6 +8,14 @@
 * Allow multiple blob ([01faf35](https://github.com/metadata-byte/game-hub/commit/01faf35eee5a2ac40ff230350c0731a7b4e2450a))
 * Update pocketbase to 0.36.5 ([2a5fa9d](https://github.com/metadata-byte/game-hub/commit/2a5fa9d3a0c722147b2809cd06a24885424229e7))
 
+## [1.4.0](https://github.com/metadata-byte/game-hub/compare/v1.3.0...v1.4.0) (2026-02-22)
+
+
+### Features
+
+* Allow multiple blob ([01faf35](https://github.com/metadata-byte/game-hub/commit/01faf35eee5a2ac40ff230350c0731a7b4e2450a))
+* Update pocketbase to 0.36.5 ([2a5fa9d](https://github.com/metadata-byte/game-hub/commit/2a5fa9d3a0c722147b2809cd06a24885424229e7))
+
 ## [1.3.0](https://github.com/metadata-byte/game-hub/compare/v1.2.0...v1.3.0) (2026-02-18)
 
 
